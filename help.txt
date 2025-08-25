@@ -1,0 +1,14 @@
+npx shadcn@latest add button
+
+npx create-next-app@latest
+
+npm init -y
+npm install express cors morgan
+node index.js
+
+https://ui.shadcn.com/
+
+make it better and responsive for  mobile screen... and professional using shadcn ui...
+
+
+we are making a platform for students to organize notes,assignments, doubts and announcements from HODS and Class incharge, make a students dashboard after login and teachers dashboard for announcemtn and doubts ques... and basic features regarding this platform... with proper client layout , sidebar and clerkauth middleware... 
